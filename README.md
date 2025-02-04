@@ -32,5 +32,5 @@ A simple and easy-to-use calculator web application built with the classic web t
 Contributions are always welcome!  Feel free to submit pull requests or open issues to suggest improvements or report bugs.  🐛
 
 ## 🖼️ Screenshots 🖼️
-![Screenshot 2025-02-04 161121](https://github.com/user-attachments/assets/bb293c96-2f07-4d01-b028-0be2a3bb9bb2)
+![Screenshot 2025-02-04 161228](https://github.com/user-attachments/assets/6963c9ad-6aed-406b-a302-9b40d9295a38)
 
